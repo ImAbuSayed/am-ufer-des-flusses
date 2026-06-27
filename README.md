@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/am-ufer-des-flusses/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Am Ufer des Flusses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ufer-des-flusses/) |
+| **Get License** | [Official Music Licensing for Am Ufer des Flusses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ufer-des-flusses/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d5164a6a39d7aecd1238c3e2da512667365063b4ae1705716419441778f7047a` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
